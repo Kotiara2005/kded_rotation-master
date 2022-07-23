@@ -1,5 +1,8 @@
 # kded_rotation
 
+Copyright 2016 Sebastian Krzyszkowiak <dos@dosowisko.net>
+Edited in 2022 by Golubov Konstantin <Kotiara2005@ukr.net>
+
 KDED module for handling automatic screen rotation on X11, with visual feedback before orientation change happens. Some assembly might be required.
 
 # Installation
