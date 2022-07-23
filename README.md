@@ -32,6 +32,7 @@ Functions:
 "reconfig" Causes the service to reread the configuration files and apply the new settings without restarting the service.
 
 "set_matrix_apply_needed argument" Sets whether to apply a custom "Coordinate Transformation Matrix". If the argument is 1 matrix apply if 0 is not applied.
+
 "get_matrix_apply_needed" Returns 1 if a custom "Coordinate Transformation Matrix" is applied and 0 if not.
 
 "set_rotate_quietly argument" Argument 1 sets visual feedback, argument 0 removes visual feedback.
